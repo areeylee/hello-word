@@ -1,2 +1,3 @@
-# hello-word
-my first repository
+# Hello-Word
+My first repository
+Now I want to make some changes.
